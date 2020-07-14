@@ -1,4 +1,4 @@
-# Welcome to the project of 🌡 Arduino based DHT sensor!
+# Welcome to the project of Arduino based DHT sensor! 🌡
 
 Thank you for your interest about this project!
 
