@@ -1,6 +1,6 @@
 > [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 >
-> # 🌡 Welcome to the project of Arduino based DHT sensor!
+> # 🌡 Welcome to the project of Arduino DHT sensor!
 >
 > Thank you for your interest about this project!
 >
