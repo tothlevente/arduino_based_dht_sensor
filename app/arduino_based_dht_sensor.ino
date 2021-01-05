@@ -1,10 +1,10 @@
 /*
           
-    Arduino based DHT sensor
-    Created by: Tóth Levente | 2020 | 0.1v |
+    Arduino DHT sensor
+    Created by: Tóth Levente | 2021 |
           
     For more information please read the project documentations.
-    https://github.com/tothlevente/arduino_based_dht_sensor
+    https://github.com/tothlevente/arduino-dht-sensor
           
 */
 
